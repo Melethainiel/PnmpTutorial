@@ -1,0 +1,22 @@
+/*
+ * BT WW Competencies Center - Fast Prototypes Team
+ * @author UM5
+ */
+
+p {
+    border-bottom: 1px solid grey;
+}
+
+table {
+    border: 1px solid grey;
+}
+
+th {
+    font-weight: bold;
+}
+
+td,
+th {
+    border: 1px solid grey;
+    padding: 5px;
+}
